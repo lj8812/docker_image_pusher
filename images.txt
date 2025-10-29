@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm/v7 changfeng2021/cf-clash:latest
+--platform=linux/amd64 tearsful/gecoosac:V1
