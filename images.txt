@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 tearsful/gecoosac:V1
+tearsful/gecoosac:V1
