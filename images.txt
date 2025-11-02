@@ -1,2 +1,2 @@
 #支持指定架构
-amilys/gecoos_ac:latest
+ubuntu:22.04
