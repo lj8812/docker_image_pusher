@@ -1,2 +1,2 @@
 #支持指定架构
-ubuntu:22.04
+subapp/sub-store:latest
