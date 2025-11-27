@@ -1,2 +1,2 @@
 #支持指定架构
-subapp/sub-store:latest
+xxooyy/sub-store:latest
