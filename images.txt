@@ -1,2 +1,2 @@
 #支持指定架构
-xream/sub-store:2.20.44-http-meta
+subapp/sub-store:latest
