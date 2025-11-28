@@ -1,2 +1,2 @@
 #支持指定架构
-xxooyy/sub-store:latest
+xream/sub-store:latest
