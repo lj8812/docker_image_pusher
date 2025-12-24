@@ -1,2 +1,2 @@
 #支持指定架构
-xream/sub-store:latest
+alpine:latest
