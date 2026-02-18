@@ -1,2 +1,2 @@
 #支持指定架构
-juewuy/shellcrash:latest
+juewuy/shellcrash:1.9.4release
