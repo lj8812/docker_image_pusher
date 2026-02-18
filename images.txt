@@ -1,2 +1,2 @@
 #支持指定架构
-sinspired/subs-check-pro:latest
+ghcr.io/sinspired/subs-check-pro:latest
